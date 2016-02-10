@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CustImgV</string>
+    <string-array name="vegetables_array">
+        <item>Cucumber</item>
+        <item>Patato</item>
+        <item>Tomato</item>
+        <item>Onion</item>
+        <item>Squash</item>
+        <item>Carrot</item>
+        <item>Letuce</item>
+        <item>Col</item>
+    </string-array>
+</resources>
